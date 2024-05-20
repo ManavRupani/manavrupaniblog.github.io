@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo-theme-mini</title>
-    <link>http://localhost:65424/ManavRupani/manavrupaniblog.github.io/</link>
+    <link>https://github.com/ManavRupani/manavrupaniblog.github.io/</link>
     <description>Recent content on hugo-theme-mini</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 May 2024 17:12:06 -0400</lastBuildDate>
-    <atom:link href="http://localhost:65424/ManavRupani/manavrupaniblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/ManavRupani/manavrupaniblog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mypost</title>
-      <link>http://localhost:65424/ManavRupani/manavrupaniblog.github.io/post/mypost/</link>
+      <link>https://github.com/ManavRupani/manavrupaniblog.github.io/post/mypost/</link>
       <pubDate>Mon, 20 May 2024 17:12:06 -0400</pubDate>
-      <guid>http://localhost:65424/ManavRupani/manavrupaniblog.github.io/post/mypost/</guid>
+      <guid>https://github.com/ManavRupani/manavrupaniblog.github.io/post/mypost/</guid>
       <description></description>
     </item>
   </channel>

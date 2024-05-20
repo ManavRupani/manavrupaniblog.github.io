@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/ManavRupani/manavrupaniblog.github.io/'
+baseURL = 'https://github.com/ManavRupani/manavrupaniblog.github.io/gi'
 languageCode = 'en-us'
 title = 'hugo-theme-mini'
 theme = 'hugo-theme-mini'
