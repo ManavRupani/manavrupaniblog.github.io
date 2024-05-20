@@ -1,0 +1,4 @@
+[submodule "manavrupaniblog.github.io"]
+	path = manavrupaniblog.github.io
+	url = https://github.com/ManavRupani/manavrupaniblog.github.io.git
+	branch = main

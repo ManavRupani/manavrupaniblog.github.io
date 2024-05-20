@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/ManavRupani/manavrupaniblog.github.io/'
+languageCode = 'en-us'
+title = 'hugo-theme-mini'
+theme = 'hugo-theme-mini'
