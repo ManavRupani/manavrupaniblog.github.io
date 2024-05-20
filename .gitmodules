@@ -2,3 +2,6 @@
 	path = manavrupaniblog.github.io
 	url = https://github.com/ManavRupani/manavrupaniblog.github.io.git
 	branch = main
+[submodule "hugo-theme-mini"]
+	path = theme/hugo-theme-mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
